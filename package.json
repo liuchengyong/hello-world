@@ -1,0 +1,19 @@
+{
+  "name": "hello-liuchengyong",
+  "version": "0.0.1",
+  "description": "test for npm publish",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "liuchengyong",
+  "license": "ISC",
+  "repository":{
+    "type" : "git", 
+    "url" : "https://github.com/liuchengyong/hello-world"
+  }
+}
